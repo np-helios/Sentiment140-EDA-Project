@@ -36,6 +36,4 @@ Based on the publicly available Sentiment140 dataset and Python open-source libr
 6. Click on `Commit changes` to upload.
 7. Your notebook will be displayed directly on GitHub with syntax highlighting and outputs.
 
----
 
-Let me know if you want me to generate a full example requirements.txt or specific Git commands for terminal uploads!
